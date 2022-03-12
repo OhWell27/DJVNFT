@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xef3f65235e27fae7f6629883f16b2bdf0cfb92296ec0df8760c2f9d9250f9e91",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xef3f65235e27fae7f6629883f16b2bdf0cfb92296ec0df8760c2f9d9250f9e91",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DEJAVU NFT",
+  "SYMBOL": "DJVNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dejavu",
+  "SHOW_BACKGROUND": true
+}
